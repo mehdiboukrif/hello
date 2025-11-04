@@ -15,9 +15,8 @@ Avec :
 
 Pour un chauffe-eau gaz, les valeurs de Pveil, $\mathrm{QP}_{0}, \mathrm{R}_{\mathrm{pn}}$ sont données dans le tableau suivant :
 
-|  | $\mathrm{Pn} \leq 10 \mathrm{~kW}$ |  | $\mathrm{Pn}>10 \mathrm{~kW}$ |  | Puissance <br> veilleuse en W <br> (si veilleuse) |
+|  | $\mathrm{Pn} \leq 10 \mathrm{~kW}$ |  | $\mathrm{Pn}>10 \mathrm{~kW}$ |  | Puissance <br> veilleuse en W </br> (si veilleuse) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ancienneté | Rendement <br> (PCI) <br> $\mathrm{R}_{\mathrm{Pn}}(\%)$ | Qpo <br> en $\%$ <br> puissance <br> nominale Pn | Rendement <br> (PCI) <br> $R_{\mathrm{Pn}}(\%)$ | $\mathrm{Q}_{\text {po }}$ <br> en $\%$ <br> puissance <br> nominale Pn |  |
 | Avant 1981 | $70.0 \%$ | $4.0 \%$ | $70.0 \%$ | $4.0 \%$ | 150 |
 | 1981-1989 | $75.0 \%$ | $2.0 \%$ | $75.0 \%$ | $2.0 \%$ | 120 |
 | $1990-2000$ | $81.0 \%$ | $1.2 \%$ | $82.0 \%$ | $1.2 \%$ | 120 |
