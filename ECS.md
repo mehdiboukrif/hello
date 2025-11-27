@@ -26,3 +26,9 @@ Pour un chauffe-eau gaz, les valeurs de Pveil, $\mathrm{QP}_{0}, \mathrm{R}_{\ma
 Les valeurs des bases de données professionnelles peuvent aussi être utilisées pour les équipements récents ou recommandés.
 
 Pour les caractéristiques des autres générateurs, voir le paragraphe sur le rendement des générateurs à combustion.
+
+<script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+<hyvor-talk-comments
+	website-id="14523"
+	page-id=""
+></hyvor-talk-comments>
